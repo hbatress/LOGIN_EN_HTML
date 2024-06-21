@@ -1,0 +1,22 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+}
+.titulo{
+    text-align: center;
+border-bottom: 2px solid red;
+}
+.libro{
+    border: 2px outset rgb(4, 0, 255);
+}
+
+.lista{
+border-top: 2px dotted rebeccapurple;
+border-bottom:  2px dotted rebeccapurple;
+}
+.lista2 {
+border: 2px dotted green;
+}
