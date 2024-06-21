@@ -20,3 +20,6 @@ border-bottom:  2px dotted rebeccapurple;
 .lista2 {
 border: 2px dotted green;
 }
+h2 .titulo{
+    background-color: rebeccapurple;
+}
